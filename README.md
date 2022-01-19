@@ -32,11 +32,11 @@ The game has an inventory system, allowing players to carry a limited number of 
 
 Hardcore mode is a survival mode variant that is locked to the hardest setting and has permadeath. If a player dies in a hardcore world, they are no longer allowed to interact with it, so they can either be put into spectator mode and explore the world or delete it entirely. This game mode can only be accessed within the Java Edition.
 
-### Creative Mode
+#### Creative Mode
 
 In creative mode, players have access to nearly all resources and items in the game through the inventory menu, and can place or remove them instantly. Players can toggle the ability to fly freely around the game world at will, and their characters do not take any damage and are not affected by hunger. The game mode helps players focus on building and creating projects of any size without disturbance.
 
-##### Adventure Mode
+#### Adventure Mode
 
 Adventure mode was designed specifically so that players could experience user-crafted custom maps and adventures. Gameplay is similar to survival mode but with various restrictions, which can be applied to the game world by the creator of the map. This forces players to obtain the required items and experience adventures in the way that the map maker intended. Another addition designed for custom maps is the command block; this block allows map makers to expand interactions with players through scripted server commands.
 
