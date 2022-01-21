@@ -53,3 +53,24 @@ Multiplayer in Minecraft enables multiple players to interact and communicate wi
 #### Minecraft Realms
 
 In 2013, Mojang announced Minecraft Realms, a server hosting service intended to enable players to run server multiplayer games easily and safely without having to set up their own. Unlike a standard server, only invited players can join Realms servers, and these servers do not use IP addresses. Minecraft: Java Edition Realms server owners can invite up to twenty people to play on their server, with up to ten players online at a time. Minecraft Realms server owners can invite up to 3000 people to play on their server, with up to ten players online at one time. The Minecraft: Java Edition Realms servers do not support user-made plugins, but players can play custom Minecraft maps. Minecraft Realms servers support user-made add-ons, resource packs, behavior packs, and custom Minecraft maps. At Electronic Entertainment Expo 2016, support for cross-platform play between Windows 10, iOS, and Android platforms was added through Realms starting in June 2016, with Xbox One and Nintendo Switch support to come later in 2017, and support for virtual reality devices. On 31 July 2017, Mojang released the beta version of the update allowing cross-platform play. Nintendo Switch support for Realms was released in July 2018.
+
+### Updates
+
+Minecraft 1.14:
+
+Minecraft 1.14:
+
+Minecraft 1.14:
+
+Minecraft 1.13:
+
+Minecraft 1.14: Village & Pillage Update
+
+Minecraft 1.5: The Redstone Update
+
+Minecraft 1.16: The Nether Update
+
+Minecraft 1.17: Caves and Cliffs Part 1
+
+Minecraft 1.18: Caves and Cliffs Part 2
+
