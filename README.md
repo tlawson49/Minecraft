@@ -74,3 +74,78 @@ Minecraft 1.17: Caves and Cliffs Part 1
 
 Minecraft 1.18: Caves and Cliffs Part 2
 
+### Potions
+
+#### Potion of Instant Healing:
+
+Effect – Instantly heals the player
+
+Ingredients – Glistering Melon Slice, Awkward Potion, and Blaze Powder
+
+#### Potion of Regeneration:
+
+Effect – Regenerates health at a faster rate
+
+Ingredients – Ghast Tear, Awkward Potion, and Blaze Powder
+
+#### Potion of Harming:
+
+Effect – Reduces health of the user and the victim
+
+Ingredients – Fermented Spider Eye, Potion of Poison or Potion of Healing, and Blaze Powder
+
+#### Potion of Night Vision:
+
+Effect – Allows players to see clearly in dark areas
+
+Ingredients – Golden Carrot, Awkward Potion, and Blaze Powder
+
+#### Potion of Slow Falling:
+
+Effect – Reduces falling speed of the player
+
+Ingredients – Phantom Membrane, Awkward Potion, and Blaze Powder
+
+#### Potion of Strength:
+
+Effect – Increases attack damage of the player
+
+Ingredients – Awkward Potion and Blaze Powder
+
+#### Potion of Fire Resistance:
+
+Effect – Makes player resistant from most fire-based damage
+
+Ingredients – Magma Cream, Awkward Potion, and Blaze Powder
+
+#### Potion of Invisibility:
+
+Effect – Makes the player invisible
+
+Ingredients – Ghast Tear, Potion of Night Vision, and Blaze Powder
+
+#### Potion of Water Breathing:
+
+Effect – Allows player to breathe underwater
+
+Ingredients – Puffer Fish, Awkward Potion, and Blaze Powder
+
+#### Potion of the Turtle Master:
+
+Effect – Makes player immune to most attacks but also reduces movement speed
+
+Ingredients – Turtle Shell, Awkward Potion, and Blaze Powder
+
+#### Potion of Weakness in Best Minecraft Potions:
+
+Effect – Reduces attack damage of the affected entity
+
+Ingredients – Spider Eye, Awkward Potion, and Blaze Powder
+
+#### Potion of Swiftness:
+
+Effect – Increases movement speed of the player
+
+Ingredients – Sugar, Awkward Potion, and Blaze Powder
+
+### FAQ
