@@ -44,7 +44,7 @@ Adventure mode was designed specifically so that players could experience user-c
 
 Spectator mode allows players to fly through blocks and watch gameplay without directly interacting. Players do not have an inventory, but can teleport to other players and view from the perspective of another player or creature. This game mode can only be accessed within Java Edition and Console Legacy Editions.
 
-yer dies in a hardcore world, they are no longer allowed to interact with it, so they can either be put into spectator mode and explore the world or delete it entirely.[52] This game mode can only be accessed within the Java Edition.[53]
+yer dies in a hardcore world, they are no longer allowed to interact with it, so they can either be put into spectator mode and explore the world or delete it entirely. This game mode can only be accessed within the Java Edition.
 
 #### Multiplayer
 
@@ -136,7 +136,7 @@ Effect – Makes player immune to most attacks but also reduces movement speed
 
 Ingredients – Turtle Shell, Awkward Potion, and Blaze Powder
 
-#### Potion of Weakness in Best Minecraft Potions:
+#### Potion of Weakness:
 
 Effect – Reduces attack damage of the affected entity
 
@@ -154,4 +154,239 @@ Mobs can ride minecarts and other mobs can climb up ladders. When mobs are kille
 
 All Mobs are Scared of the Warden, Except for Enderman and Creepers. So the Warden is a very scary sounding and looking monster but I don't think players should be the only ones to fear it.
 
+### Enchantments
+
+Sharpness: Increases damage dealt by 2.5 per level of enchantment.
+
+Smite: Increases damage dealt to undead enemies like Zombies and Skeletons by 2.5 per enchantment level. 
+
+Bane of Arthropods: Increases damage dealt to insect-like enemies such like Spiders and Silverfish by 2.5 per enchantment level. 
+
+Fire Aspect: Attacks set target on fire with a maximum enchantment level of 2. Damage dealt increases by 3 and 7 depending on level. 
+
+Looting: Increases the amount and rarity of loot mobs drop when killed with a maximum enchantment level of 3.
+
+Knockback: Each attack knocks enemies back a set number of blocks with a maximum enchantment level of 2. Each level increases the distance by 3 blocks.
+
+Efficiency: In Java Edition, an axe enchanted with Efficiency has a 25% chance to disable the use of a shield for 5 seconds, with an increased chance of 5% per level.
+
+Channeling: Summons a bolt of lightning when enemies are struck with the weapon with a maximum enchantment level of 1. This only works in a thunderstorm.
+
+Impaling: Each hit deals additional damage to mobs in the water. In Java Edition, the extra damage is only applied to aquatic monsters, while in Bedrock the damage applies to any monster in the water.
+
+Flame: Arrows set enemies ablaze for 5 additional points of fire damage.
+
+Infinity: Bows do not consume arrows.
+
+Piercing: Each arrow can pass through multiple enemies. 
+
+Power: Increases arrow damage by 25% per level.
+
+Punch: Increases knockback from arrows by 3 blocks per level.
+
+Quick Charge: Reduces the time needed to ready the crossbow.
+
+Multishot: Fires 3 arrows at the cost of 1.
+
+Loyalty: The trident returns when thrown, with each level reducing the return time. 
+
+Riptide: The trident pulls the player with it when thrown, with the distance traveled increasing with each level. This enchantment only works in water or in rain.
+
+Mending: Gaining experience repairs item durability. 
+
+Unbreaking: Increases the amount of times an item can be used before it breaks.
+
+Curse of Vanishing: The item disappears upon player death. 
+
+Efficiency: Increases the speed you mine or break blocks.
+
+Fortune: Every block yields more resources. Yield increases by level.
+
+Silk Touch: Blocks drop as blocks instead of breaking — i.e. a Glowstone block drops a Glowstone block instead of Glowstone Dust.
+
+Lure: Decreases the time it takes to attract fish to a fishing rod.
+
+Luck of the Sea: Increases the chance of fishing rare loot.
+
+Aqua Affinity: Increases underwater mining speed.
+
+Respiration: Increases underwater breathing time.
+
+Protection: Increases resistance to all types of damage by 4% per level.
+
+Blast Protection: Reduces the damage from explosions and knockback distance.
+
+Fire Protection: Reduces the damage from fire and the amount of burn time. 
+
+Projectile Protection: Reduces the damage taken from bows, crossbows, and other projectiles.
+
+Soul Speed: Increases walking speed on Soul Sand per level. 
+
+Thorns: Reflects some of the damage taken back to your attacker at the cost of durability.
+
+Feather Falling: Reduces fall damage.
+
+Frost Walker: Transforms water blocks into ice and allows you to run and walk over water.
+
+Depth Strider: Increases underwater movement speed. 
+
+Curse of Binding: Armor cannot be removed once equipped except through death or breaking.
+
+### Items
+
+#### Food
+
+Apple
+Baked Potato
+Beetroot
+Beetroot Soup
+Bread
+Carrot
+Chorus Fruit
+Cooked Chicken
+Cooked Cod
+Cooked Mutton
+Cooked Porkchop
+Cooked Rabbit
+Cooked Salmon
+Cookie
+Dried Kelp
+Enchanted Golden Apple
+Glow Berries
+Golden Apple
+Golden Carrot
+Honey Bottle
+Melon Slice
+Mushroom Stew
+Poisonous Potato
+Potato
+Pufferfish
+Pumpkin Pie
+Rabbit Stew
+Raw Beef
+Raw Chicken
+Raw Cod
+Raw Mutton
+Raw Porkchop
+Raw Rabbit
+Raw Salmon
+Rotten Flesh
+Spider Eye
+Steak
+Suspicious Stew
+Sweet Berries
+Tropical Fish
+
+### Villagers
+
+- Armorer - Sells iron, chains, and armor; Blast Furnace
+
+- Butcher - Trades meat, berries, stew, and kelp blocks; Smoker
+
+- Cartographer - Trades maps, compasses, banners + patterns; Cartography Table
+
+- Cleric - Trades ender pearls, redstone, enchanting/potion ingredients; Brewing Stand
+
+- Farmer - Trades food and crops; Composter
+
+- Fisherman - Trades fish items and campfires; Barrel
+
+- Fletcher - Trades crossbows, bows, and arrows; Fletching Table
+
+- Leatherworker - Trades hide, scutes, leather items; Cauldron
+
+- Librarian - Trades compasses, enchanted books, clocks, name tags, lanterns; Lectern
+
+- Mason/Stone Mason - Trades terracotta, polished stones, quartz; Stonecutter
+
+- Shepherd - Trades shears, wool, paintings, dyes, beds; Loom
+
+- Toolsmith - Trades bells, harvesting tools, minerals; Smithing Table
+
+- Weaponsmith - Trades bells, enchanted weapons, minerals; Grindstone
+
+### Seeds
+
+3937483735383523698
+
+### Ore Distribution
+
+#### Copper Ore:
+
+Copper ore is a new ore added to the game as of the Minecraft 1.17 Caves and Cliffs Part 1 update. At the moment there are relatively few uses for copper aside from making a spyglass and a lightning rod.
+
+In terms of obtaining copper ore, the best way to go about this is strip mining at around Y = 47. This should theoretically give players an optimal probability of coming across copper ore veins.
+
+#### Gold Ore:
+
+There are many uses for gold in Minecraft. One of the most prominent is for crafting golden apples for use when playing PvP gamemodes.
+
+To obtain gold as fast as possible in Minecraft version 1.18, the best way is the mine deep underground. The optimal level for gold generation is around Y = -17, which is way into deep slate territory.
+
+#### Coal Ore:
+
+Coal is one of the best ores to mine in the early stages of Minecraft and can pay dividends in the long run if properly harnessed.
+
+As of the Minecraft 1.18 update, the ore generation of coal became much more diverse and coal can now be found at pretty much any height in the world as long as Y > 0.
+
+This means that players can have great luck in looking for exposed coal ore on the sides of mountains or underground. When mining underground, the best levels for finding coal ore are between Y = 0 and Y = 100.
+
+#### Iron Ore:
+
+Iron is another important material to have as it can be used to craft sturdy tools and armor at the mid stage of the game.
+
+Those looking to find iron ore in the Minecraft 1.18 update should look at around Y = 14. This is statistically the best place for iron to spawn due to the updated new world generation mechanics.
+
+#### Emerald Ore:
+
+Emerald has long since been one of the most rare materials in all of Minecraft, even rarer than diamonds.
+
+As of the Minecraft 1.18 update, those looking to stumble across this rare ore will likely find the most success in searching at high altitudes. More specifically, the best height to look for emerald ore is around Y = 256.
+
+#### Redstone Ore:
+
+Redstone is used to create a variety of advanced circuitry in Minecraft and can be used to automate many tedious processes.
+
+In order to obtain redstone ore quickly in Minecraft 1.18, players should search at around the level Y = -57. This is well into deep slate territory, but is statistically the best place for redstone ore to spawn.
+
+#### Diamond Ore:
+
+Diamonds cannot naturally spawn in any level above 16. Although the starting point is level 16, diamonds are most commonly found at levels 5-12. One specific level that players have said tends to be the most abundant for diamonds is level 11. Players should just be careful when mining, as lava spawns around this area.
+
+#### Lapis Lazuli Ore:
+
+Lapis Lazuli, an important resource for enchanting items, can be found anywhere below sea level. This means that it can be found between Y level 64 and -64. The ore can be found exposed to air in caves, but it is more commonly found when players mine through the blocks.
+
+#### Ancient Debris:
+
+The range for ancient debris is quite large. In the Nether, ancient debris generates between Y levels 8 and 119.
+
+However, it is not a good idea to start mining at any height in this range because the chances of ancient debris generating at most Y levels are quite low. On average, players will find the largest amount of ancient debris at Y 15.
+
+### Mods
+
+MrCrayfish's Furniture Mod - https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod
+
+### Servers
+
+CloutCraft 
+
+- IP Address: cloutcraft.us
+
 ### FAQ
+
+#### How to breed villagers?
+
+To breed villagers in Minecraft, find two villagers you want to breed, you need to get them in a room alone together in the presence of beds. Then acquire enough food to give to the villagers. When you throw the food on the ground near the villagers, their “willingness” to breed will increase.
+
+#### How many enchantments can an item have in Minecraft?
+
+This completely depends on the item type and the type of enchantments in question. Some enchantments are incompatible with each other, such as silk touch and fortune on a pickaxe. Currently, however, all compatible enchantments can be placed on any item without any limit through the use of an anvil, provided the player has enough EXP to do so of course.
+
+#### How many bookshelves do you need for an enchantment table?
+
+None. Bookshelves only increase the power of the enchantments the table will offer. Players can use enchantment tables perfectly fine with 0 bookshelves surrounding it, although the enchantments awarded will be weak. In order to ensure maximum level enchantments, a minimum of 15 bookshelves must surround the enchantment table.
+
+#### How many blocks does a full beacon take?
+
+A fully powered beacon requires 1476 iron, gold, emerald, diamond, or netherite blocks to function at max capacity.
