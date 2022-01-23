@@ -148,4 +148,10 @@ Effect – Increases movement speed of the player
 
 Ingredients – Sugar, Awkward Potion, and Blaze Powder
 
+### Mobs
+
+Mobs can ride minecarts and other mobs can climb up ladders. When mobs are killed, they turn to dust and drop items that may be useful resources. Each type of mob in Minecraft has a certain AI (artificial intelligence) system with different behaviors and mechanics.
+
+All Mobs are Scared of the Warden, Except for Enderman and Creepers. So the Warden is a very scary sounding and looking monster but I don't think players should be the only ones to fear it.
+
 ### FAQ
