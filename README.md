@@ -363,6 +363,38 @@ The range for ancient debris is quite large. In the Nether, ancient debris gener
 
 However, it is not a good idea to start mining at any height in this range because the chances of ancient debris generating at most Y levels are quite low. On average, players will find the largest amount of ancient debris at Y 15.
 
+### Commands
+
+/help - Shows a list of all available commands
+
+/tp - Teleport
+
+/summon - Delivers an in-game entity to your location
+
+/difficulty - Root command for changing difficulty setting
+
+/weather - Root command for managing weather in your world
+
+/gamemode - Root command for selecting game mode
+
+/locate - The root command for finding structural coordinates in your world
+
+/tell - Root command for easy private messaging
+
+/time - Root command for managing the time of day
+
+/testfor - Root command for counting in-game objects and entities
+
+/give - Gives <player> [Amount] <Item name>s. If [Data Value] or [NBT data tag] is specified, that data will be put into the item/block.
+  
+/kill - Deals 1000 void damage to [player]. If no player is specified, you kill yourself.
+  
+/enchant - Enchants the item in the <player>s hand with <ID>.
+  
+/xp - Gives <amount> xp to <player>, or <amount>L levels to <player>.
+
+/seed - Tells the world seed.
+ 
 ### Mods
 
 MrCrayfish's Furniture Mod - https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod
