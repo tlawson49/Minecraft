@@ -578,6 +578,22 @@ CloutCraft
 
 - IP Address: cloutcraft.us
 
+### Tips
+	
+- Renaming a mob "Dinnerbone" or "Grumm" using a spawn egg or name tag causes it to flip upside down.
+
+
+- Renaming a sheep "jeb_" makes its wool change color with a smooth transition between colors. Note that the sheep named "jeb_" drops only the color of wool it had when named.
+
+
+- Renaming a vindicator "Johnny" makes it attack all nearby mobs, except other illagers.
+
+
+- Spiders, cave spiders, slimes, silverfish, and illusioners are some of the few mobs that can see players behind walls.
+
+
+- Cats and villagers can see players with the invisibility effect.
+	
 ### FAQ
 
 #### How to breed villagers?
