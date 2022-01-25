@@ -148,12 +148,6 @@ Effect – Increases movement speed of the player
 
 Ingredients – Sugar, Awkward Potion, and Blaze Powder
 
-### Mobs
-
-Mobs can ride minecarts and other mobs can climb up ladders. When mobs are killed, they turn to dust and drop items that may be useful resources. Each type of mob in Minecraft has a certain AI (artificial intelligence) system with different behaviors and mechanics.
-
-All Mobs are Scared of the Warden, Except for Enderman and Creepers. So the Warden is a very scary sounding and looking monster but I don't think players should be the only ones to fear it.
-
 ### Enchantments
 
 Sharpness: Increases damage dealt by 2.5 per level of enchantment.
@@ -236,46 +230,225 @@ Curse of Binding: Armor cannot be removed once equipped except through death or 
 
 #### Food
 
-Apple
-Baked Potato
-Beetroot
-Beetroot Soup
-Bread
-Carrot
-Chorus Fruit
-Cooked Chicken
-Cooked Cod
-Cooked Mutton
-Cooked Porkchop
-Cooked Rabbit
-Cooked Salmon
-Cookie
-Dried Kelp
-Enchanted Golden Apple
-Glow Berries
-Golden Apple
-Golden Carrot
-Honey Bottle
-Melon Slice
-Mushroom Stew
-Poisonous Potato
-Potato
-Pufferfish
-Pumpkin Pie
-Rabbit Stew
-Raw Beef
-Raw Chicken
-Raw Cod
-Raw Mutton
-Raw Porkchop
-Raw Rabbit
-Raw Salmon
-Rotten Flesh
-Spider Eye
-Steak
-Suspicious Stew
-Sweet Berries
-Tropical Fish
+- Apple
+
+- Baked Potato
+
+- Beetroot
+
+- Beetroot Soup
+
+- Bread
+
+- Carrot
+
+- Chorus Fruit
+
+- Cooked Chicken
+
+- Cooked Cod
+
+- Cooked Mutton
+
+- Cooked Porkchop
+
+- Cooked Rabbit
+
+- Cooked Salmon
+
+- Cookie
+
+- Dried Kelp
+
+- Enchanted Golden Apple
+
+- Glow Berries
+
+- Golden Apple
+
+- Golden Carrot
+
+- Honey Bottle
+
+- Melon Slice
+
+- Mushroom Stew
+
+- Poisonous Potato
+
+- Potato
+
+- Pufferfish
+
+- Pumpkin Pie
+
+- Rabbit Stew
+
+- Raw Beef
+
+- Raw Chicken
+
+- Raw Cod
+
+- Raw Mutton
+
+- Raw Porkchop
+
+- Raw Rabbit
+
+- Raw Salmon
+
+- Rotten Flesh
+
+- Spider Eye
+
+- Steak
+
+- Suspicious Stew
+
+- Sweet Berries
+
+- Tropical Fish
+
+### Mobs
+
+#### Passive Mobs:
+
+Passive mobs are harmless and will usually escape if attacked. They provide players with useful items if the proper tool is used (eg. shears to collect wool). Some mobs become passive only after they are tamed such as utility mobs. Some of these can also protect a player from hostile mobs. They have the ability to breed, so baby animals will frequent the area.
+
+- Sheep	
+
+- Tropical Fish
+
+- Cow	
+
+- Turtle
+
+- Fox	
+
+- Villager
+
+- Bat	
+
+- Wandering Trader
+
+- Chicken	
+
+- Pufferfish
+
+- Cod	
+
+- Donkey
+
+- Ocelot	
+
+- Horse
+
+- Pig	
+
+- Cat
+
+- Rabbit	
+
+- Parrot
+
+- Salmon	
+
+- Mule
+
+- Mooshroom	
+
+- Skeleton Horse
+
+- Squid
+
+#### Neutral Mobs:
+
+Only when provoked would neutral mobs target a player. They do not attack the player and otherwise have distinct actions under normal circumstances. They even target other mobs. Untamed wolves, for instance, can attack any rabbits, sheep, baby turtles, and skeletons nearby. Many neutral mobs become hostile only when attacked first, but other neutral mobs have other ways of being provoked. Some may be naturally hostile with provocation.
+
+- Dolphin	
+
+- Bee
+
+- Polar Bear	
+
+- Iron Golem
+
+- Trader 
+
+- llama	
+
+- Spider
+
+- Llama	
+
+- Cave Spider
+
+- Panda	
+
+- Enderman
+
+- Wolf	
+
+- Zombie Pigman
+
+#### Hostile Mobs:
+
+In Minecraft, hostile mobs are unsafe and vicious and will attack you within a certain range, normally 16 blocks. Some mobs are, however, able to spot you from 100 blocks away. Flying mobs will spawn overhead, like a Minecraft phantom, and try to swoop down and attack you.
+
+- Evoker
+	
+- Ghast
+
+- Vindicator	
+
+- Magma Cube
+
+- Pillager	
+
+- Silverfish
+
+- Ravager	
+
+- Skeleton
+
+- Vex	
+
+- Slime
+
+- Chicken 
+
+- Jockey	
+
+- Spider Jockey
+
+- Endermite	
+
+- Zombie
+
+- Guardian	
+
+- Zombie Villager
+
+- Elder Guardian	
+
+- Drowned
+
+- Shulker	
+
+- Wither Skeleton
+
+- Skeleton Horseman	
+
+- Witch
+
+- Husk	Hoglin
+
+- Stray	Piglin
+
+- Phantom	Creeper
+
+- Blaze
 
 ### Villagers
 
