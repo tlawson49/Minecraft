@@ -226,7 +226,29 @@ Depth Strider: Increases underwater movement speed.
 
 Curse of Binding: Armor cannot be removed once equipped except through death or breaking.
 
-### Items
+### Inventory Items
+
+#### Tools
+
+- Wooden Sword
+
+- Wooden Pickaxe
+
+- Wooden Axe
+
+- Wooden Shovel
+
+- Wooden Hoe
+
+- Stone Sword
+
+- Stone Pickaxe
+
+- Stone Axe
+
+- Stone Shovel
+
+- Stone Hoe
 
 #### Food
 
@@ -442,11 +464,17 @@ In Minecraft, hostile mobs are unsafe and vicious and will attack you within a c
 
 - Witch
 
-- Husk	Hoglin
+- Husk	
 
-- Stray	Piglin
+- Hoglin
 
-- Phantom	Creeper
+- Stray	
+
+- Piglin
+
+- Phantom	
+
+- Creeper
 
 - Blaze
 
