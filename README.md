@@ -250,6 +250,26 @@ Curse of Binding: Armor cannot be removed once equipped except through death or 
 
 - Stone Hoe
 
+- Iron Sword
+
+- Iron Pickaxe
+
+- Iron Axe
+
+- Iron Shovel
+
+- Iron Hoe
+
+- Diamond Sword
+
+- Diamond Pickaxe
+
+- Diamond Axe
+
+- Diamond Shovel
+
+- Diamond Hoe
+
 #### Food
 
 - Apple
