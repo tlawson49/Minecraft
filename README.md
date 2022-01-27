@@ -56,11 +56,11 @@ In 2013, Mojang announced Minecraft Realms, a server hosting service intended to
 
 ### Updates
 
-Minecraft 1.14:
+Minecraft 1.10:
 
-Minecraft 1.14:
+Minecraft 1.11:
 
-Minecraft 1.14:
+Minecraft 1.12:
 
 Minecraft 1.13:
 
@@ -269,6 +269,32 @@ Curse of Binding: Armor cannot be removed once equipped except through death or 
 - Diamond Shovel
 
 - Diamond Hoe
+
+- Gold Sword
+
+- Gold Pickaxe
+
+- Gold Axe
+
+- Gold Shovel
+
+- Gold Hoe
+
+- Netherite Sword
+
+- Netherite Pickaxe
+
+- Netherite Axe
+
+- Netherite Shovel
+
+- Netherite Hoe
+
+- Bow
+
+- Crossbow
+
+- Trident
 
 #### Food
 
