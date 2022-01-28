@@ -228,7 +228,23 @@ Curse of Binding: Armor cannot be removed once equipped except through death or 
 
 ### Inventory Items
 
-#### Tools
+#### Tools & Armour
+
+- Leather Cap
+
+- Leather Tunic
+
+- Leather Leggings
+
+- Leather Boots
+
+- Chainmail Cap
+
+- Chainmail Tunic
+
+- Chainmail Leggings
+
+- Chainmail Boots
 
 - Wooden Sword
 
@@ -250,6 +266,14 @@ Curse of Binding: Armor cannot be removed once equipped except through death or 
 
 - Stone Hoe
 
+- Iron Helmet
+
+- Iron Chestplate
+
+- Iron Leggings
+
+- Iron Boots
+
 - Iron Sword
 
 - Iron Pickaxe
@@ -259,6 +283,14 @@ Curse of Binding: Armor cannot be removed once equipped except through death or 
 - Iron Shovel
 
 - Iron Hoe
+
+- Diamond Helmet
+
+- Diamond Chestplate
+
+- Diamond Leggings
+
+- Diamond Boots
 
 - Diamond Sword
 
@@ -270,6 +302,14 @@ Curse of Binding: Armor cannot be removed once equipped except through death or 
 
 - Diamond Hoe
 
+- Gold Helmet
+
+- Gold Chestplate
+
+- Gold Leggings
+
+- Gold Boots
+
 - Gold Sword
 
 - Gold Pickaxe
@@ -279,6 +319,14 @@ Curse of Binding: Armor cannot be removed once equipped except through death or 
 - Gold Shovel
 
 - Gold Hoe
+
+- Netherite Helmet
+
+- Netherite Chestplate
+
+- Netherite Leggings
+
+- Netherite Boots
 
 - Netherite Sword
 
@@ -295,6 +343,16 @@ Curse of Binding: Armor cannot be removed once equipped except through death or 
 - Crossbow
 
 - Trident
+
+- Shield
+
+- Leather Horse Armour
+
+- Iron Horse Armour
+
+- Diamond Horse Armour
+
+- Gold Horse Armour
 
 #### Food
 
