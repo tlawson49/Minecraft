@@ -610,6 +610,8 @@ In Minecraft, hostile mobs are unsafe and vicious and will attack you within a c
 
 - Weaponsmith - Trades bells, enchanted weapons, minerals; Grindstone
 
+#### Biomes
+
 ### Seeds
 
 3937483735383523698
