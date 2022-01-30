@@ -456,6 +456,8 @@ Curse of Binding: Armor cannot be removed once equipped except through death or 
 
 - Stone
 
+https://www.sportskeeda.com/minecraft/blocks
+
 #### Food
 
 - Apple
