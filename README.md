@@ -354,6 +354,108 @@ Curse of Binding: Armor cannot be removed once equipped except through death or 
 
 - Gold Horse Armour
 
+- Elytra
+
+- Shears
+
+#### Blocks
+
+- Oak Wood Plank
+
+- Oak Door
+
+- Oak Fence
+
+- Oak Fence Gate
+
+- Oak Sign
+
+- Oak Slab
+
+- Oak Stairs
+
+- Oak Log
+
+- Oak Pressure Plate
+
+- Oak Button
+
+- Oak Trapdoor
+
+- Birch Wood Plank
+
+- Birch Button
+
+- Birch Door
+
+- Birch Slab
+
+- Birch Stair
+
+- Birch Fence
+
+- Birch Fence Gate
+
+- Birch Log
+
+- Birch Sign
+
+- Birch Trapdoor
+
+- Dark Oak Wood Plank
+
+- Dark Oak Fence
+
+- Dark Oak Fence Gate
+
+- Dark Oak Slab
+
+- Dark Oak Stair
+
+- Dark Oak Log
+
+- Dark Oak Button
+
+- Dark Oak Pressure Plate
+
+- Dark Oak Sign
+
+- Dark Oak Trapdoor
+
+- Spruce Wood Plank
+
+- Spruce Door
+
+- Spruce Button
+
+- Spruce Pressure Plate
+
+- Spruce Fence
+
+- Spruce Fence Gate
+
+- Spruce Sign
+
+- Spruce Trapdoor
+
+- Spruce Stair
+
+- Spruce Slab
+
+- Spruce Log
+
+- Warped Wood Plank
+
+- Crimson Wood Plank
+
+- Acacia Wood Plank
+
+- Jungle Wood Plank
+
+- Cobblestone
+
+- Stone
+
 #### Food
 
 - Apple
