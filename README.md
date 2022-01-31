@@ -450,11 +450,69 @@ Curse of Binding: Armor cannot be removed once equipped except through death or 
 
 - Acacia Wood Plank
 
+- Acacia Button
+
+- Acacia Plank
+
+- Acacia Slab
+
+- Acacia Log
+
+- Acacia Pressure Plate
+
+- Acacia Trapdoor
+
+- Acacia Sign
+
+- Acacia Fence
+
+- Acacia Fence Gate
+
 - Jungle Wood Plank
 
 - Cobblestone
 
 - Stone
+
+- Deepslate
+
+- Cobbled Deepslate
+
+- Polished Deepslate
+
+- Deepslate Brick
+
+- Deepslate Tile
+
+- Chisled Deepslate
+
+- Deepslate Wall
+
+- Deepslate Stair
+
+- Deepslate Slab
+
+- Deepslate Gold
+
+- Deepslate Iron
+
+- Deepslate Diamond
+
+- Deepslate Redstone
+
+- Deepslate Lapis Lazuli
+
+- Andesite
+
+- Andesite Slab
+
+- Andesite Wall
+
+- Diorite
+
+- Gravel
+
+- Blackstone
 
 https://www.sportskeeda.com/minecraft/blocks
 
