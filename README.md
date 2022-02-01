@@ -514,6 +514,40 @@ Curse of Binding: Armor cannot be removed once equipped except through death or 
 
 - Blackstone
 
+- Bedrock
+
+- Basalt
+
+- Iron Trapdoor
+
+- Heavy Weighted Pressure Plate
+
+- Coal Ore
+
+- Iron Ore
+
+- Raw Iron
+
+- Raw Iron Block
+
+- Copper Ore
+
+- Raw Copper
+
+- Raw Copper Block
+
+- Diamond Ore
+
+- Gold Ore
+
+- Raw Gold
+
+- Raw Gold Block
+
+- Lapis Lazuli Ore
+
+- Ancient Debris
+
 https://www.sportskeeda.com/minecraft/blocks
 
 #### Food
