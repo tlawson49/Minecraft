@@ -448,6 +448,30 @@ Curse of Binding: Armor cannot be removed once equipped except through death or 
 
 - Crimson Wood Plank
 
+- Crimson Button
+
+- Crimson Door
+
+- Crimson Fence
+
+- Crimson Fence Gate
+
+- Crimson Hyphae
+
+- Crimson Planks
+
+- Crimson Pressure Plate
+
+- Crimson Sign
+
+- Crimson Slab
+
+- Crimson Stair
+
+- Crimson Stem
+
+- Crimson Trapdoor
+
 - Acacia Wood Plank
 
 - Acacia Button
@@ -509,6 +533,8 @@ Curse of Binding: Armor cannot be removed once equipped except through death or 
 - Andesite Wall
 
 - Diorite
+
+- 
 
 - Gravel
 
