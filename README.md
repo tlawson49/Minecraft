@@ -534,8 +534,6 @@ Curse of Binding: Armor cannot be removed once equipped except through death or 
 
 - Diorite
 
-- 
-
 - Gravel
 
 - Blackstone
@@ -573,6 +571,26 @@ Curse of Binding: Armor cannot be removed once equipped except through death or 
 - Lapis Lazuli Ore
 
 - Ancient Debris
+
+- Barrier
+
+- Creeper Head
+
+- Dragon Egg
+
+- Dragon Head
+
+- Player Head
+
+- Skeleton Skull
+
+- Structure Block
+
+- Wither Skeleton Skull
+
+- Zombie Head
+
+- Debug Stick
 
 https://www.sportskeeda.com/minecraft/blocks
 
@@ -949,7 +967,13 @@ CloutCraft
 
 
 - Cats and villagers can see players with the invisibility effect.
+
+### Resources
 	
+Minecraft Skins - https://www.minecraftskins.com/ https://www.minecraftskins.net/
+	
+	
+
 ### FAQ
 
 #### How to breed villagers?
@@ -967,3 +991,19 @@ None. Bookshelves only increase the power of the enchantments the table will off
 #### How many blocks does a full beacon take?
 
 A fully powered beacon requires 1476 iron, gold, emerald, diamond, or netherite blocks to function at max capacity.
+
+#### How to Make an XP Farm in Minecraft With a Spawner?
+	
+Creating an XP farm with a spawner is very easy. All you have to do is mine out a room around the spawner. This will give the mob enough room to spawn. From there, use water to push the mob into a hole and fill the hole with water. Make the hole go 20 blocks up. At the top of the hole, use water to push the mob a couple of blocks in any direction and then have the water end at another hole. This will cause the mob to drop and have a little bit of health left. Now, when you hit the mob it will die. Over time the mobs will stack up and you will get enough experience from your farm.
+
+#### How to Make an XP Farm in Minecraft Without a Spawner?
+	
+Creating an XP farm without a spawner is just as easy. Instead of mining an area around the spawner, just make a chamber that is 30 blocks away from the player. Mobs will naturally spawn 30 blocks away from you. They will wander into the water and will flow towards the hole where they will fall and you can easily kill them for the experience.
+
+#### How to Make an XP Farm in Minecraft Without Mobs
+
+The easiest way to get XP without mobs is by smelting items or mining ores. The ores that will give you experience when mined are coal, lapis lazuli, Redstone, diamond, and emerald. One way you can make an XP farm without mobs is by creating a cactus farm. The cacti will automatically break and flow into a hopper that will go into a furnace and make some cactus green. When you take out the cactus green, it will give you experience from the furnace. This process will constantly give you more and more experience over time.
+
+#### How many enchantments can an item have in Minecraft?
+
+This completely depends on the item type and the type of enchantments in question. Some enchantments are incompatible with each other, such as silk touch and fortune on a pickaxe. Currently, however, all compatible enchantments can be placed on any item without any limit through the use of an anvil, provided the player has enough EXP to do so of course.
