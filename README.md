@@ -592,6 +592,28 @@ Curse of Binding: Armor cannot be removed once equipped except through death or 
 
 - Debug Stick
 
+- Crafting Table
+
+- Furnace
+
+- Blast Furnace
+
+- Smoker
+
+- Anvil
+
+- Enchantment Table
+
+- Chest
+
+- Shulkerbox
+
+- Enderchest
+
+- Mine Cart
+
+- Saddle
+
 https://www.sportskeeda.com/minecraft/blocks
 
 #### Food
