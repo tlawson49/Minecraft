@@ -992,9 +992,19 @@ CloutCraft
 
 ### Resources
 	
+Minecraft - https://www.minecraft.net/en-us/
+	
+Minecraft Wiki Fandom - https://minecraft.fandom.com/wiki/Minecraft
+	
 Minecraft Skins - https://www.minecraftskins.com/ https://www.minecraftskins.net/
 	
+Minecraft Servers - https://minecraftservers.org/
 	
+Minecraft Mods - https://www.minecraftmods.com/
+	
+Minecraft Maps - https://www.minecraftmaps.com/
+	
+Minecraft Texture Packs - https://www.minecrafttexturepacks.com/
 
 ### FAQ
 
