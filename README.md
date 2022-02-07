@@ -534,9 +534,47 @@ Curse of Binding: Armor cannot be removed once equipped except through death or 
 
 - Diorite
 
+- Diorite Slab
+
+- Diorite Stair
+
+- Diorite Wall
+
+- Polished Diorite
+
+- Polished Diorite Slab
+
+- Polished Diorite Stair
+
 - Gravel
 
 - Blackstone
+
+- Blackstone Slab
+
+- Blackstone Stair
+
+- Blackstone Wall
+
+- Gilded Blackstone
+
+- Polished Blackstone Brick Slab
+
+- Polished Blackstone Brick Stair
+
+- Polished Blackstone Brick Wall
+
+- Polished Blackstone Brick
+
+- Polished Blackstone Button
+
+- Polished Blackstone Pressure Plate
+
+- Polished Blackstone Slab
+
+- Polished Blackstone Stair
+
+- Polished Blackstone Wall
 
 - Bedrock
 
@@ -603,6 +641,16 @@ Curse of Binding: Armor cannot be removed once equipped except through death or 
 - Anvil
 
 - Enchantment Table
+
+- Lectern
+
+- Cartography Table
+
+- Note Block
+
+- Composter
+
+- Loom
 
 - Chest
 
